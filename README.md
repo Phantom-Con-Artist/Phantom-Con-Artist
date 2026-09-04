@@ -11,7 +11,7 @@ Founder & Lead Maintainer of <b>Orbis Project</b> and <b>Orbis Engine</b>
 </p>
 
 <p align="center">
-<a href="#">📖 The Saga Documentation (coming soon)</a>
+<ahref="https://github.com/Phantom-Con-Artist/The-Saga-Documentation/blob/main/README.md">📖 The Saga Documentation</a>
 </p>
 
 ---
