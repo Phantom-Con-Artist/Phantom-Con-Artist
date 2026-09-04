@@ -49,8 +49,9 @@ once than rush it and leave things half-migrated.
 - The repositories will return to public once the rebrand is stable.
 - The new umbrella project will be called **The Saga**, with **Wyrd Engine™** as the
   reference implementation and the **Myriad Ecosystem** as the applications tier.
-- A dedicated **The Saga Documentation** repository is coming — the link above will be
-  updated the moment it's live.
+- A dedicated **The Saga Documentation** repository is now live — you can find the complete documentation here:
+
+[📚 Visit The Saga Documentation](https://github.com/Phantom-Con-Artist/Saga)
 
 Thank you for your patience while I get this right. 🙏
 
