@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Subhradeep Sarkar 👋</h1>
 
 <p align="center">
-Founder & Lead Maintainer of <b>Orbis Project</b> and <b>Orbis Engine</b>
+Founder & Lead Maintainer of <b>The Sagat</b> and <b>Sorophy™</b>
 </p>
 
 <p align="center">
