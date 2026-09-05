@@ -11,6 +11,14 @@ Founder & Lead Maintainer of <b>Orbis Project</b> and <b>Orbis Engine</b>
 </p>
 
 <p align="center">
+  <a href="https://github.com/Phantom-Con-Artist/The-Saga-Documentation/blob/main/recognition/Registry.md">
+    <img src="https://raw.githubusercontent.com/Phantom-Con-Artist/The-Saga-Documentation/main/assets/badges/the-saga-founder-badge.png"
+         alt="The Saga — Founder & Lead Maintainer"
+         width="300">
+  </a>
+</p>
+
+<p align="center">
 <a
 href="https://github.com/Phantom-Con-Artist/The-Saga-Documentation">📖 The Saga Documentation</a>
 </p>
