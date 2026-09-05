@@ -67,12 +67,6 @@ Thank you for your patience while I get this right. 🙏
 
 <div align="center">
 
-<img src="assets/wyrd-engine.png" alt="Wyrd Engine™" width="700">
+<img src="assets/sorophy-cover.png" alt="Sorophy™" width="700">
 
-</div>
-
----
-
-<div align="center">
-<sub>Powered By WYRD ENGINE™ — Architecture. Engine. Ecosystem.</sub>
 </div>
