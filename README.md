@@ -30,7 +30,7 @@ Founder & Lead Maintainer of <b>The Saga</b> and <b>Sorophy™</b>
 
 It's been 3 days since the global migration from **Orbis** to **The Saga**, and it was rough. But it's done, so here's the real story behind it, not just the changelog version.
 
-I've been building this idea for more than a year, starting out writing v1 in **Notepad** on a mid-tier laptop that's been fighting me the whole way. Switching to **VS Code** recently made a real difference. I've also leaned heavily on AI tools for debugging, drafting, and especially documentation, since English isn't my native language and getting ideas across clearly matters to me. I won't apologize for any of it. Building an engine like this solo isn't realistic without help, especially now that v2's scope has grown so much.
+It all started from my fascination with writing fiction and worldbuilding, and how messy the files always got. Organizing all of it was a constant pain, and that itch turned into this whole project. I started out writing v1 in **Notepad** on a mid-tier laptop that's been fighting me the whole way. Switching to **VS Code** recently made a real difference. I've also leaned heavily on AI tools for debugging, drafting, and especially documentation, since English isn't my native language and getting ideas across clearly matters to me. I won't apologize for any of it. Building an engine like this solo isn't realistic without help, especially now that v2's scope has grown so much.
 
 Right now everything is going into **Sorophy™ v2**. Good news and bad news, honestly:
 
@@ -38,7 +38,7 @@ Right now everything is going into **Sorophy™ v2**. Good news and bad news, ho
 
 **Harder:** I've had to cut a few features to post-v2. The full vision, a complete **Temporal Graph Evolution Runtime**, hasn't changed, just the sequencing.
 
-I've been working on this project for 3+ months now, and these last few weeks especially, since setting up this GitHub account and handling docs alongside the engine itself, I've been putting in 70-80+ hour weeks, sometimes past 100. It's taken a real toll, I've lost weight and been dealing with bad migraines. I'm pushing to finish v2 before university pulls my attention away, and then I'm taking an actual break before starting the desktop app.
+I've been working on this for the past 7-8 months, building it piece by piece, starting with **Orbpad** before slowly working toward The Saga. Recently it's picked up to 70-80+ hour weeks, between drafting and fine-tuning the documentation, setting up licensing (which was a major pain, and honestly I still don't think it's bulletproof, clearly a noob at this 😂😂), and working on the engine at the same time. Since setting up this GitHub account this week, it's been closer to 100+ hours. It's taken a real toll, I've lost weight and been dealing with bad migraines. I'm pushing to finish v2 before university pulls my attention away, and then I'm taking an actual break before starting the desktop app.
 
 I know how this looks, a week-old account with no community, pouring this much in. I don't have a tidy answer beyond: this project means something to me, and I didn't want to walk away from it half-finished.
 
