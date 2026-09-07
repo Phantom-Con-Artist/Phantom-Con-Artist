@@ -1,19 +1,21 @@
+<div align = "center"><h1>The Saga</h1></div>
+
 <div align="center">
 <img src="assets/the-saga-cover.png" alt="Sorophy™ v2.0.0" width="900">
 </div>
 
-<div align = "center"><h1>INTRODUCES</h1> </div>
+<div align = "center"><h2>INTRODUCES</h2> </div>
 
 <div align="center">
 
-<img src="assets/sorophy-v2-cover.png" alt="Sorophy™ v2.0.0" width="900">
+<img src="assets/sorophy-v2-cover-stable.png" alt="Sorophy™ v2.0.0" width="900">
 
 </div>
 
 <div align = "center"><h1>Sorophy™ v2.0.0 - Krono</h1></div>
 
 
-<h1 align="center">By Subhradeep Sarkar 👋</h1>
+<h2 align="center">By Subhradeep Sarkar</h2>
 
 <p align="center">
 Founder & Lead Maintainer of <b>The Saga</b> and <b>Sorophy™</b>
