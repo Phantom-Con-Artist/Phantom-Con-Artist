@@ -1,10 +1,19 @@
 <div align="center">
+<img src="assets/the-saga-cover.png" alt="Sorophy™ v2.0.0" width="900">
+</div>
 
-<img src="assets/the-saga-cover.png" alt="The Saga" width="900">
+<div align = "center"><h1>INTRODUCES</h1> </div>
+
+<div align="center">
+
+<img src="assets/sorophy-v2-cover.png" alt="Sorophy™ v2.0.0" width="900">
 
 </div>
 
-<h1 align="center">Hi, I'm Subhradeep Sarkar 👋</h1>
+<div align = "center"><h1>Sorophy™ v2.0.0 - Krono</h1></div>
+
+
+<h1 align="center">By Subhradeep Sarkar 👋</h1>
 
 <p align="center">
 Founder & Lead Maintainer of <b>The Saga</b> and <b>Sorophy™</b>
@@ -26,23 +35,9 @@ Founder & Lead Maintainer of <b>The Saga</b> and <b>Sorophy™</b>
 
 ---
 
-## 🕒 3 Days Since the Migration
+## 🎉 [Sorophy™ v2.0.0](https://github.com/Phantom-Con-Artist/Sorophy) is Finally Out!
 
-It's been 3 days since the global migration from **Orbis** to **The Saga**, and it was rough. But it's done, so here's the real story behind it, not just the changelog version.
-
-It all started from my fascination with writing fiction and worldbuilding, and how messy the files always got. Organizing all of it was a constant pain, and that itch turned into this whole project. I started out writing v1 in **Notepad** on a mid-tier laptop that's been fighting me the whole way. Switching to **VS Code** recently made a real difference. I've also leaned heavily on AI tools for debugging, drafting, and especially documentation, since English isn't my native language and getting ideas across clearly matters to me. I won't apologize for any of it. Building an engine like this solo isn't realistic without help, especially now that v2's scope has grown so much.
-
-Right now everything is going into **Sorophy™ v2**. Good news and bad news, honestly:
-
-**Good:** Sorophy™ v2, Krono, is in testing. I'll be sharing a direct v1-vs-v2 comparison and everything I've completed once it's tested across platforms. The jump from v1 to v2 is a bigger architectural leap than I expected, and I'm pushing hard to get it right.
-
-**Harder:** I've had to cut a few features to post-v2. The full vision, a complete **Temporal Graph Evolution Runtime**, hasn't changed, just the sequencing.
-
-I've been working on this for the past 7-8 months, building it piece by piece, starting with **Orbpad** before slowly working toward The Saga. Recently it's picked up to 70-80+ hour weeks, between drafting and fine-tuning the documentation, setting up licensing (which was a major pain, and honestly I still don't think it's bulletproof, clearly a noob at this 😂😂), and working on the engine at the same time. Since setting up this GitHub account this week, it's been closer to 100+ hours. It's taken a real toll, I've lost weight and been dealing with bad migraines. I'm pushing to finish v2 before university pulls my attention away, and then I'm taking an actual break before starting the desktop app.
-
-I know how this looks, a week-old account with no community, pouring this much in. I don't have a tidy answer beyond: this project means something to me, and I didn't want to walk away from it half-finished.
-
-So — thank you, genuinely, for reading this far. **Sorophy™ v2 will be out of beta soon**, and I'm doing my best to make it worth the wait.
+This is a big one for me. Sorophy™ v2.0.0 "Krono" - the temporal graph evolution core I set out to build - is officially live. It represents months of hard work and a vision I've been chasing since the very beginning of this project.
 
 ---
 
@@ -199,6 +194,10 @@ Seriously - thank you.
 There's a lot more to build.
 
 **See you in the next chapter.** 🖤
+
+---
+
+Delivering Sorophy™ v2.0.0 was one of the milestones of my vision for this project, and getting it out the door meant a lot to me. That said, my health has taken a hit along the way, and I need to step back and take some time for myself before I dive back in. I'll be back, focused as ever.
 
 ---
 
