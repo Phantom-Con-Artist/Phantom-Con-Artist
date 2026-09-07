@@ -84,28 +84,9 @@ The v1 stable release has completed its validation and is now available through 
 **Sorophy™ v1.0.0**
 - 🟢 Stable
 - 🏅 Grade A
-- 🥈 Silver Standard
 - 📦 NuGet packages available
 - 🧪 Full test suite validated
 - ⚡ Stress testing validated
-
-And alongside the stable v1 release:
-
-### ⚡ Sorophy™ v2 — Krono is officially in Beta
-
-The next generation of Sorophy is now under active development.
-
-**Sorophy™ v2 — Krono** introduces the next evolution of the architecture, with a stronger focus on temporal information, history, evolution, and change.
-
-You can follow Sorophy's development and releases here:
-
-<p align="center">
-
-<a href="https://github.com/Phantom-Con-Artist/Sorophy">
-  🔮 <b>Visit the Sorophy™ Repository</b>
-</a>
-
-</p>
 
 ---
 
