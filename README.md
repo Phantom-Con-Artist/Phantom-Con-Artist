@@ -190,3 +190,31 @@ Delivering Sorophy™ v2.0.0 was one of the milestones of my vision for this pro
 <i>Information should be structured with Time.</i>
 
 </div>
+
+---
+
+## 🌱 First Application of the Myriad Ecosystem
+
+There's one more reveal I've been sitting on.
+
+The first official application built on top of **Sorophy™ v2.0.0 "Krono"** is now taking shape — a worldbuilding application designed for creative worldbuilders and authors who need their lore, timelines, and story structures to actually hold together.
+
+<div align="center">
+
+<img src="assets/skaldee-studios-cover.png" alt="Skaldee.Engine" width="900">
+
+<img src="assets/powered-by-sorophy-cover.png" alt="Powered by Sorophy™" width="900">
+
+</div>
+
+<div align="center"><h2>Skaldee.Engine</h2></div>
+
+<p align="center">
+🧪 <b>Officially in Alpha Development</b>
+</p>
+
+This is the piece of software I mentioned above — built specifically to interact with Sorophy™, giving worldbuilders and authors a way to structure their stories, timelines, and lore with the same temporal-graph foundation that powers the rest of The Saga.
+
+More details on Skaldee.Engine will come as alpha development continues.
+
+---
