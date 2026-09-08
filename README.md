@@ -207,7 +207,7 @@ The first official application built on top of **Sorophy™ v2.0.0 "Krono"** is 
 
 </div>
 
-<div align="center"><h2>Skaldee.Engine</h2></div>
+<div align="center"><h2>Skaldee.Studio</h2></div>
 
 <p align="center">
 🧪 <b>Officially in Alpha Development</b>
@@ -215,6 +215,6 @@ The first official application built on top of **Sorophy™ v2.0.0 "Krono"** is 
 
 This is the piece of software I mentioned above — built specifically to interact with Sorophy™, giving worldbuilders and authors a way to structure their stories, timelines, and lore with the same temporal-graph foundation that powers the rest of The Saga.
 
-More details on Skaldee.Engine will come as alpha development continues.
+More details on Skaldee.Studio will come as alpha development continues.
 
 ---
