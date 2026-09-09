@@ -201,7 +201,7 @@ The first official application built on top of **Sorophy™ v2.0.0 "Krono"** is 
 
 <div align="center">
 
-<img src="assets/skaldee-studios-cover.png" alt="Skaldee.Engine" width="900">
+<img src="assets/skaldee-studios-cover" alt="Skaldee Studio" width="900">
 
 <img src="assets/powered-by-sorophy-cover.png" alt="Powered by Sorophy™" width="900">
 
