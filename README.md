@@ -208,13 +208,21 @@ The first official application built on top of **Sorophy™ v2.0.0 "Krono"** is 
 </div>
 
 <div align="center"><h2>Skaldee.Studio</h2></div>
+---
 
+# 🚨 Skaldee.Studio is Now Public!
+
+The **Skaldee.Studio repository is officially available**, and development has entered **Alpha**. 🧪
+
+The first application of the **Myriad Ecosystem**, powered by **Sorophy™ v2.0.0 "Krono"**.
+
+🔗 **Repository:** [Skaldee.Studio](https://github.com/Phantom-Con-Artist/Skaldee-Studio)
+
+**The first chapter of Myriad begins.** ⚔️
+
+---
 <p align="center">
 🧪 <b>Officially in Alpha Development</b>
 </p>
-
-This is the piece of software I mentioned above — built specifically to interact with Sorophy™, giving worldbuilders and authors a way to structure their stories, timelines, and lore with the same temporal-graph foundation that powers the rest of The Saga.
-
-More details on Skaldee.Studio will come as alpha development continues.
 
 ---
